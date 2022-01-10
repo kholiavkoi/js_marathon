@@ -2,7 +2,10 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="b99c3b65-19ac-4661-8b53-3b42439e74a1" name="Changes" comment="">
-      <change beforePath="$PROJECT_DIR$/day_1/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/day_1/index.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/day_2/app.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/day_2/index.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/day_2/styles.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -16,12 +19,15 @@
     <option name="stateVersion" value="1" />
   </component>
   <component name="ProjectId" id="23QKQmOLA4iYoxyIQLhU3ufsLIL" />
-  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
   <component name="PropertiesComponent">
+    <property name="ASKED_ADD_EXTERNAL_FILES" value="true" />
     <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
@@ -38,10 +44,28 @@
       <option name="presentableId" value="Default" />
       <updated>1641660857052</updated>
       <workItem from="1641660858171" duration="596000" />
+      <workItem from="1641661465727" duration="425000" />
+      <workItem from="1641662006081" duration="116000" />
+      <workItem from="1641662124305" duration="45000" />
+      <workItem from="1641662179063" duration="522000" />
     </task>
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="3" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+  <component name="VcsManagerConfiguration">
+    <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
   </component>
 </project>
